@@ -280,6 +280,31 @@ i {
       /* Uncomment for 3D effect */
       /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
     }
+	
+	.purple {
+		background-color:#992C96;
+	}
+	.red {
+		background-color:#DF2823;
+	}
+	.orange {
+		background-color:#F58F08;
+	}
+	.green {
+		background-color:#7CBD2A;
+	}
+	.turquoise {
+		background-color:#00A7BC;
+	}
+	.blue{
+		background-color:#0B5ED7;
+	}
+	        .color-box {
+            display:inline-block;
+            width:50px;
+            height: 30px;
+        }
+
      </style>
     <link rel="stylesheet" href="css/animation.css"><!--[if IE 7]><link rel="stylesheet" href="css/ipc-ie7.css"><![endif]-->
     <script>
@@ -292,6 +317,22 @@ i {
           obj.className = obj.className.replace(' codesOn', '');
         }
       }
+	  
+	  var size = 32;
+	  var icons ;
+	  function change_color(color, color_name) {
+		icons = document.getElementsByClassName("demo-icon");
+		for(var i=0; i< icons.length; i++) {
+			var icn = icons[i];
+			icn.setAttribute("style","color:#"+color+";font-size:"+size+"px");
+		}
+	  }
+	  
+	  function change_size(sz) {
+		size = sz;
+		change_color("#000000","black");
+	  }
+	  
       
     </script>
   </head>
@@ -318,7 +359,47 @@ i {
         <div title="Code: 0xe806" class="the-icons span3"><i class="demo-icon ipc-physics">&#xe806;</i> <span class="i-name">ipc-physics</span><span class="i-code">0xe806</span></div>
         <div title="Code: 0xe807" class="the-icons span3"><i class="demo-icon ipc-electricity">&#xe807;</i> <span class="i-name">ipc-electricity</span><span class="i-code">0xe807</span></div>
       </div>
+      <div class="row" style="padding-top: 20px">
+
+      </div>
+      <div class="row">
+
+        <h2>Example List </h2>
+        <div>
+          <i class="demo-icon ipc-human-necessities">&#xe800;</i><span style="background-color:#FF0">A</span>61P  31/12        20060101A I20060506RMEP
+        </div>
+        <div>
+          <i class="demo-icon ipc-human-necessities">&#xe801;</i><span style="background-color:#FF0">B</span>65G  41/002       20130101  I20130101BHEP
+        </div>
+        <div>
+          <i class="demo-icon ipc-human-necessities" style="font-size:40px;color:#03F;">&#xe801;</i><span style="background-color:#FF0">B</span>62M   9/124       20130101  I20130101BHEP
+        </div>
+        <div>
+          <i class="demo-icon ipc-human-necessities" style="font-size:40px;color:#2fff1d;">&#xe801;</i><span style="background-color:#FF0">B</span>62M   9/124       20130101  I20130101BHEP
+        </div>
+
+      </div>
+	  <div class="row">
+			<h2>Color selection </h2>
+                    <div class="color-box purple" onclick="change_color('992C96','purple')"></div>
+                    <div class="color-box red" onclick="change_color('DF2823','red')"></div>
+                    <div class="color-box orange" onclick="change_color('F58F08','orange')"></div>
+                    <div class="color-box green" onclick="change_color('7CBD2A', 'green')"></div>
+                    <div class="color-box turquoise" onclick="change_color('00A7BC', 'turquoise')"></div>
+                    <div class="color-box blue" onclick="change_color('0B5ED7','blue')"></div>
+                
+	  </div>
+	                  <h2>Font Size</h2>
+                <label>Select size:</label>
+                <select onchange="change_size(this.value)">
+                    <option value="32" selected>Small</option>
+                    <option value="40">Medium</option>
+                    <option value="64">Large</option>
+                </select>
     </div>
+
+
+
 
   </body>
 </html>
