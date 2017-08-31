@@ -8,7 +8,7 @@
   "glyphs": [
     {
       "uid": "7682a518ad8dd331fa90bcf85c80460e",
-      "css": "human-necessities",
+      "css": "a",
       "code": 59392,
       "src": "custom_icons",
       "selected": true,
@@ -22,7 +22,7 @@
     },
     {
       "uid": "c98f6cb880d3bb2b580651fb7ee67b0f",
-      "css": "performing-operations-transporting",
+      "css": "b",
       "code": 59393,
       "src": "custom_icons",
       "selected": true,
@@ -36,7 +36,7 @@
     },
     {
       "uid": "28f3f1fc1961ba870b0030a128a434fd",
-      "css": "chemistry-metallurgy",
+      "css": "c",
       "code": 59394,
       "src": "custom_icons",
       "selected": true,
@@ -50,7 +50,7 @@
     },
     {
       "uid": "ec89d18580904304d1e0a4ded0b4b50e",
-      "css": "textiles-paper",
+      "css": "d",
       "code": 59395,
       "src": "custom_icons",
       "selected": true,
@@ -64,7 +64,7 @@
     },
     {
       "uid": "d3cd144ab94116d3c7f3efc5ce55f32b",
-      "css": "fixed-constructions",
+      "css": "e",
       "code": 59396,
       "src": "custom_icons",
       "selected": true,
@@ -78,7 +78,7 @@
     },
     {
       "uid": "ffc4aed196a5892163ea0f9f9fc50659",
-      "css": "mechanical-engineering",
+      "css": "f",
       "code": 59397,
       "src": "custom_icons",
       "selected": true,
@@ -92,7 +92,7 @@
     },
     {
       "uid": "5802e81ef31da9891fa011d9c3f853b5",
-      "css": "physics",
+      "css": "g",
       "code": 59398,
       "src": "custom_icons",
       "selected": true,
@@ -106,7 +106,7 @@
     },
     {
       "uid": "caee2b5bf1bbf7cdbb85e3e266e2fd39",
-      "css": "electricity",
+      "css": "h",
       "code": 59399,
       "src": "custom_icons",
       "selected": true,

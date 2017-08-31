@@ -1,9 +1,9 @@
 
-.ipc-human-necessities:before { content: '\e800'; } /* '' */
-.ipc-performing-operations-transporting:before { content: '\e801'; } /* '' */
-.ipc-chemistry-metallurgy:before { content: '\e802'; } /* '' */
-.ipc-textiles-paper:before { content: '\e803'; } /* '' */
-.ipc-fixed-constructions:before { content: '\e804'; } /* '' */
-.ipc-mechanical-engineering:before { content: '\e805'; } /* '' */
-.ipc-physics:before { content: '\e806'; } /* '' */
-.ipc-electricity:before { content: '\e807'; } /* '' */
+.ipc-a:before { content: '\e800'; } /* '' */
+.ipc-b:before { content: '\e801'; } /* '' */
+.ipc-c:before { content: '\e802'; } /* '' */
+.ipc-d:before { content: '\e803'; } /* '' */
+.ipc-e:before { content: '\e804'; } /* '' */
+.ipc-f:before { content: '\e805'; } /* '' */
+.ipc-g:before { content: '\e806'; } /* '' */
+.ipc-h:before { content: '\e807'; } /* '' */

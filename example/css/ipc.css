@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'ipc';
-  src: url('../font/ipc.eot?6753265');
-  src: url('../font/ipc.eot?6753265#iefix') format('embedded-opentype'),
-       url('../font/ipc.woff2?6753265') format('woff2'),
-       url('../font/ipc.woff?6753265') format('woff'),
-       url('../font/ipc.ttf?6753265') format('truetype'),
-       url('../font/ipc.svg?6753265#ipc') format('svg');
+  src: url('../font/ipc.eot?46990983');
+  src: url('../font/ipc.eot?46990983#iefix') format('embedded-opentype'),
+       url('../font/ipc.woff2?46990983') format('woff2'),
+       url('../font/ipc.woff?46990983') format('woff'),
+       url('../font/ipc.ttf?46990983') format('truetype'),
+       url('../font/ipc.svg?46990983#ipc') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'ipc';
-    src: url('../font/ipc.svg?6753265#ipc') format('svg');
+    src: url('../font/ipc.svg?46990983#ipc') format('svg');
   }
 }
 */
@@ -55,11 +55,11 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.ipc-human-necessities:before { content: '\e800'; } /* '' */
-.ipc-performing-operations-transporting:before { content: '\e801'; } /* '' */
-.ipc-chemistry-metallurgy:before { content: '\e802'; } /* '' */
-.ipc-textiles-paper:before { content: '\e803'; } /* '' */
-.ipc-fixed-constructions:before { content: '\e804'; } /* '' */
-.ipc-mechanical-engineering:before { content: '\e805'; } /* '' */
-.ipc-physics:before { content: '\e806'; } /* '' */
-.ipc-electricity:before { content: '\e807'; } /* '' */
+.ipc-a:before { content: '\e800'; } /* '' */
+.ipc-b:before { content: '\e801'; } /* '' */
+.ipc-c:before { content: '\e802'; } /* '' */
+.ipc-d:before { content: '\e803'; } /* '' */
+.ipc-e:before { content: '\e804'; } /* '' */
+.ipc-f:before { content: '\e805'; } /* '' */
+.ipc-g:before { content: '\e806'; } /* '' */
+.ipc-h:before { content: '\e807'; } /* '' */
