@@ -25,6 +25,13 @@ To use the font in you HTML project check the `example` folder.
 
 ## Importing 
 
+Execute the command by doing `command.exe`
+
+Point to consider
+- Point 1  
+- Point 2
+- Point 3
+
 
 # Usage 
 
