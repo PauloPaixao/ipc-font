@@ -10,6 +10,7 @@ According to WIPO wesite ([WIPO Classification Page](http://web2.wipo.int/classi
 - F - Mechanical Engineering; Lighting; Heating; Weapons; Blasting;
 - G - Physics;
 - H - Electricity;
+- Y - Emerging Cross-Sectional Technologies
 
 # Getting Icons
 
