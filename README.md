@@ -1,6 +1,6 @@
 # IPC Classification 
 
-According to WIPO wesite ([WIPO Classification Page](http://web2.wipo.int/classifications/ipc/ipcpub?notion=scheme&version=20180101&symbol=none&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=A&cwid=none&tree=no&searchmode=smart)) there are the following main classifications.
+According to WIPO wesite ([WIPO Classification Page](https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&version=20190101&symbol=none&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=A&cwid=none&tree=no&searchmode=smart)) there are the following main classifications.
 
 - A - Human Necessities;
 - B - Performing Operations; Transporting;
