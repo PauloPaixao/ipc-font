@@ -2,6 +2,11 @@
 
 According to WIPO wesite ([WIPO Classification Page](https://www.wipo.int/classifications/ipc/ipcpub/?notion=scheme&version=20190101&symbol=none&menulang=en&lang=en&viewmode=f&fipcpc=no&showdeleted=yes&indexes=no&headings=yes&notes=yes&direction=o2n&initial=A&cwid=none&tree=no&searchmode=smart)) there are the following main classifications.
 
+Also available at USPTO website:
+- [USPTO Classification](https://www.uspto.gov/web/patents/classification/cpc/html/cpc-A.html#A)
+
+Main level classifications:
+
 - A - Human Necessities;
 - B - Performing Operations; Transporting;
 - C - Chemistry; Metallurgy;
